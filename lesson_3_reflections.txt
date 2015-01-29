@@ -4,3 +4,19 @@ work local?
 A remote repository is useful as an off-site backup and as an easy way to
 share and collaborate anywhere.
 ###
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+You do not want changes being made while you are working with a repository and
+potentially cause confusion.
+###
+
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forks copy a repository between github accounts, clones copy a repo locally,
+branches are a local version of a fork.
+###
+
+
