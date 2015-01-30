@@ -19,4 +19,23 @@ Forks copy a repository between github accounts, clones copy a repo locally,
 branches are a local version of a fork.
 ###
 
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+It allows you to work when not connected to the remote, i.e. in the forest.
+###
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Changed files could be sent directly via email or they could be kept on some
+other shared resource (dropbox, etc.). It would be easier in that it requires
+no special knowledge but harder since version changes are not tracked and it
+may be difficult keeping track of all the different files.
+###
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+When the changes are experimental or may conflict with the changes of others.
 
